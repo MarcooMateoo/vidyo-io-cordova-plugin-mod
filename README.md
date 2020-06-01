@@ -1,5 +1,11 @@
 # vidyo.io-connector-cordova
 
+Disclaimer:
+
+I just modified some files that will fix the installing of plugin in android. 
+Please refer to this link for the original file https://github.com/Vidyo/vidyo.io-connector-cordova
+
+
 This is a Vidyo.io Android and iOS plugin for Cordova. This plugin is built using the Vidyo.io Android sample available @ https://vidyo.io. 
 
 - [How to use this plugin](#how-to-use)
