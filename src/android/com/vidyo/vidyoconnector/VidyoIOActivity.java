@@ -22,7 +22,7 @@ import com.vidyo.VidyoClient.Device.LocalCamera;
 import com.vidyo.VidyoClient.Endpoint.LogRecord;
 
 import com.vidyo.VidyoClient.Endpoint.Participant;
-import com.vidyo.vidyoiohybrid.R;
+//import com.vidyo.vidyoiohybrid.R;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;
